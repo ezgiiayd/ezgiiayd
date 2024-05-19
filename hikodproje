@@ -1,0 +1,8 @@
+
+int yas= 20;  
+
+int yil=2024;  
+
+String isim= 'Ezgi';  
+
+bool yarinPazartesi= true;  
